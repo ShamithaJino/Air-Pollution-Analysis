@@ -1,42 +1,63 @@
-# Air-Pollution-Analysis
+# Air Pollution Analysis 2002 to 2024
 ## About This Project
 
-Air pollution affects public health, the climate, and the environment. In this project, I looked at the different sectors in the dataset to see which ones create the most pollution and how emissions have changed over time. I also compared pollution levels across states to understand which states are higher or lower. Then I explored whether using more renewable energy like solar and wind is linked to lower pollution, and whether states with more vehicles tend to have higher emissions.
+Air pollution affects public health, climate, and the environment. In this project, I analyzed air pollution data across the United States to understand which sectors create the most emissions and how pollution has changed from 2002 to 2024.
 
-## What Data I Used
+I compared pollution levels across states to identify which states have higher or lower emissions. I also examined whether growth in renewable energy such as solar and wind is linked to lower pollution levels. In addition, I explored whether states with more registered vehicles tend to have higher emissions.
 
-I used government datasets from trusted sources, including EPA air pollution data (2002–2024), renewable energy data from the U.S. Energy Information Administration, vehicle registration data from Data.gov, and state boundary data from the U.S. Census Bureau to create maps and analyze trends across states.
+## Data Sources
 
+This project uses publicly available government datasets from trusted sources.
 
-## What I Did With the Data
+Air pollution data from the Environmental Protection Agency covering the years 2002 to 2024
 
-The data was not ready to use at first, so I had to clean and organize it before starting the analysis by separating combined columns, reshaping the year data, handling missing values, converting units, and merging everything by state and year. I also added map data so I could create state-level visuals and compare pollution, renewable energy, and vehicle trends together.
+Renewable energy data from the U.S. Energy Information Administration
 
+Vehicle registration data from Data.gov
 
-## What I Analyzed
+State boundary data from the U.S. Census Bureau for mapping and state level analysis
+
+These datasets allowed state level, sector level, and pollutant level analysis.
+
+## Data Preparation
+
+The raw datasets were not ready for analysis and required cleaning and transformation.
+
+The main preparation steps included separating combined columns, reshaping year data into a structured format, handling missing values, converting emission units, and merging datasets using state and year. Geographic data was also integrated to create state level maps and compare pollution, renewable energy, and vehicle trends together.
+
+## Analysis Focus
+
+This project focused on answering the following questions:
 
 Which sectors create the most pollution
 
-How pollution has changed from 2002 to 2024
+How air pollution changed from 2002 to 2024
 
 Which states have the highest emissions
 
-Which pollutants contribute the most
+Which pollutants contribute the most overall
 
 How renewable energy has grown over time
 
 Whether states increasing renewable energy show lower emissions
 
-Whether states with more vehicles have higher pollution
+Whether higher vehicle growth is associated with higher pollution
 
-## Tools I Used
+## Tools Used
 
-Python (Pandas, Matplotlib, Seaborn, GeoPandas)
+Python including Pandas, NumPy, Matplotlib, Seaborn, and GeoPandas
 
-Power BI
+Power BI for interactive dashboards
 
-Jupyter Notebook
+Jupyter Notebook for analysis
 
-PowerPoint
+PowerPoint for presenting insights
+
 
 ## Conclusion
+
+This analysis shows that air pollution in the United States has significantly decreased between 2002 and 2024. The biggest improvements occurred in transportation and fuel combustion sectors.
+
+Major pollutants such as CO, SO2, and NOx declined due to cleaner vehicle technologies, improved fuel standards, stricter environmental regulations, and the growth of renewable energy.
+
+Overall, the results suggest that policy actions and the transition to clean energy have played an important role in reducing air pollution.
