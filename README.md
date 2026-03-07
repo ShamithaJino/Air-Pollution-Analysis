@@ -80,7 +80,7 @@ The analysis focused on the following questions:
 
 \- Jupyter Notebook  
 
-\- PowerPoint
+\- Canva(Presentation slides)
 
 
 
