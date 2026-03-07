@@ -1,42 +1,110 @@
-# Air-Pollution-Analysis
-## About This Project
+# \# Air Pollution Analysis (2002–2024)
 
-Air pollution affects public health, the climate, and the environment. In this project, I looked at the different sectors in the dataset to see which ones create the most pollution and how emissions have changed over time. I also compared pollution levels across states to understand which states are higher or lower. Then I explored whether using more renewable energy like solar and wind is linked to lower pollution, and whether states with more vehicles tend to have higher emissions.
+# 
 
-## What Data I Used
+# \## About This Project
 
-I used government datasets from trusted sources, including EPA air pollution data (2002–2024), renewable energy data from the U.S. Energy Information Administration, vehicle registration data from Data.gov, and state boundary data from the U.S. Census Bureau to create maps and analyze trends across states.
+# Air pollution affects public health, climate, and the environment. In this project, I analyzed air pollution data to understand which sectors contribute the most emissions and how pollution levels have changed over time.
 
+# 
 
-## What I Did With the Data
+# I also compared pollution levels across U.S. states and explored whether factors such as renewable energy growth and vehicle registrations are related to changes in emissions.
 
-The data was not ready to use at first, so I had to clean and organize it before starting the analysis by separating combined columns, reshaping the year data, handling missing values, converting units, and merging everything by state and year. I also added map data so I could create state-level visuals and compare pollution, renewable energy, and vehicle trends together.
+# 
 
+# ---
 
-## What I Analyzed
+# 
 
-Which sectors create the most pollution
+# \## Data Sources
 
-How pollution has changed from 2002 to 2024
+# This project uses government datasets from trusted sources:
 
-Which states have the highest emissions
+# 
 
-Which pollutants contribute the most
+# \- \*\*EPA Air Pollution Data (2002–2024)\*\*
 
-How renewable energy has grown over time
+# \- \*\*Renewable Energy Data\*\* – U.S. Energy Information Administration (EIA)
 
-Whether states increasing renewable energy show lower emissions
+# \- \*\*Vehicle Registration Data\*\* – Data.gov
 
-Whether states with more vehicles have higher pollution
+# \- \*\*State Boundary Data\*\* – U.S. Census Bureau (used for mapping)
 
-## Tools I Used
+# 
 
-Python (Pandas, Matplotlib, Seaborn, GeoPandas)
+# ---
 
-Power BI
+# 
 
-Jupyter Notebook
+# \## Data Preparation
 
-PowerPoint
+# The datasets were not analysis-ready, so several preprocessing steps were performed:
 
-## Conclusion
+# 
+
+# \- Split combined columns  
+
+# \- Reshaped year-based data  
+
+# \- Handled missing values  
+
+# \- Converted units  
+
+# \- Merged datasets by \*\*state and year\*\*  
+
+# \- Integrated geographic boundary data for state-level maps  
+
+# 
+
+# ---
+
+# 
+
+# \## Analysis Performed
+
+# The analysis focused on the following questions:
+
+# 
+
+# \- Which sectors produce the most pollution  
+
+# \- How emissions changed from \*\*2002 to 2024\*\*  
+
+# \- Which states have the \*\*highest emissions\*\*  
+
+# \- Which pollutants contribute the most  
+
+# \- How \*\*renewable energy usage has grown\*\*  
+
+# \- Whether states increasing renewable energy show \*\*lower emissions\*\*  
+
+# \- Whether states with \*\*more vehicles tend to have higher pollution\*\*  
+
+# \- Compared \*\*vehicle registration growth with transportation sector emissions\*\* to understand whether increasing vehicle numbers impact pollution levels  
+
+# 
+
+# ---
+
+# 
+
+# \## Tools Used
+
+# \- \*\*Python\*\* (Pandas, Matplotlib, Seaborn, GeoPandas)  
+
+# \- \*\*Power BI\*\*  
+
+# \- \*\*Jupyter Notebook\*\*  
+
+# \- \*\*PowerPoint\*\*
+
+# 
+
+# ---
+
+# 
+
+# \## Conclusion
+
+# From \*\*2002 to 2024\*\*, air pollution in the United States has significantly decreased. The largest reductions occurred in the \*\*transportation\*\* and \*\*fuel combustion\*\* sectors. Harmful pollutants such as \*\*CO, SO₂, and NOx\*\* declined over time due to cleaner vehicles, improved fuel quality, stricter government regulations, and the growth of renewable energy. These combined efforts contributed to reducing overall emissions.
+
