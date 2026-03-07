@@ -82,6 +82,16 @@ The analysis focused on the following questions:
 
 \- PowerPoint
 
+
+
+# Dashboard
+
+
+
+You can view the interactive Power BI dashboard here:  
+
+\[View Power BI Dashboard]([https://app.powerbi.com/groups/me/reports/45e0e311-6202-4901-9669-c3a61151c002/e3b2b839c2563c4b17ba?experience=power-bi](https://app.powerbi.com/groups/me/reports/45e0e311-6202-4901-9669-c3a61151c002/e3b2b839c2563c4b17ba?experience=power-bi))
+
 # 
 
 # Conclusion
