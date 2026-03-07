@@ -4,6 +4,8 @@
 
 ### About This Project
 
+
+
 Air pollution affects public health, climate, and the environment. In this project, I analyzed air pollution data to understand which sectors contribute the most emissions and how pollution levels have changed over time.
 
 
@@ -16,9 +18,7 @@ I also compared pollution levels across U.S. states and explored whether factors
 
 
 
-##### This project uses government datasets from trusted sources:
-
-
+This project uses government datasets from trusted sources:
 
 -EPA Air Pollution Data (2002–2024)
 
@@ -30,9 +30,9 @@ I also compared pollution levels across U.S. states and explored whether factors
 
 # Data Preparation
 
-##### The datasets were not analysis-ready, so several preprocessing steps were performed:
 
-# 
+
+The datasets were not analysis-ready, so several preprocessing steps were performed:
 
 \- Split combined columns  
 
@@ -48,9 +48,9 @@ I also compared pollution levels across U.S. states and explored whether factors
 
 # Analysis Performed
 
-#### The analysis focused on the following questions:
 
-# 
+
+The analysis focused on the following questions:
 
 \- Which sectors produce the most pollution  
 
@@ -72,6 +72,8 @@ I also compared pollution levels across U.S. states and explored whether factors
 
 # Tools Used
 
+
+
 \- Python(Pandas, NumPy, Matplotlib, Seaborn)  
 
 \- Power BI  
@@ -83,6 +85,8 @@ I also compared pollution levels across U.S. states and explored whether factors
 # 
 
 # Conclusion
+
+
 
 From 2002 to 2024, air pollution in the United States has significantly decreased. The largest reductions occurred in the transportation and fuel combustion sectors. Harmful pollutants such as CO, SO₂, and NOx declined over time due to cleaner vehicles, improved fuel quality, stricter government regulations, and the growth of renewable energy. These combined efforts contributed to reducing overall emissions.
 
