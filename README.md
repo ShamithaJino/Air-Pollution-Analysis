@@ -20,11 +20,11 @@ I also compared pollution levels across U.S. states and explored whether factors
 
 This project uses government datasets from trusted sources:
 
--EPA Air Pollution Data (2002–2024)
+\- EPA Air Pollution Data (2002–2024)
 
--Renewable Energy Data– U.S. Energy Information Administration (EIA)
+\- Renewable Energy Data– U.S. Energy Information Administration (EIA)
 
--Vehicle Registration Data – Data.gov
+\- Vehicle Registration Data – Data.gov
 
 # 
 
